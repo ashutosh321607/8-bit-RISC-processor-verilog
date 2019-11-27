@@ -1,0 +1,30 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sources_1/new/clock_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clkDiv
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sources_1/new/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sources_1/new/cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2458] undeclared symbol pc_jump, assumed default net type wire [C:/Users/hp/end_game/end_game.srcs/sources_1/new/cpu.v:10]
+INFO: [VRFC 10-2458] undeclared symbol pc_freeze, assumed default net type wire [C:/Users/hp/end_game/end_game.srcs/sources_1/new/cpu.v:10]
+INFO: [VRFC 10-2458] undeclared symbol regfile_regwrite, assumed default net type wire [C:/Users/hp/end_game/end_game.srcs/sources_1/new/cpu.v:12]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sources_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main
+WARNING: [VRFC 10-1315] redeclaration of ansi port clk is not allowed [C:/Users/hp/end_game/end_game.srcs/sources_1/new/main.v:24]
+WARNING: [VRFC 10-1315] redeclaration of ansi port datamem_address is not allowed [C:/Users/hp/end_game/end_game.srcs/sources_1/new/main.v:25]
+WARNING: [VRFC 10-1315] redeclaration of ansi port value1 is not allowed [C:/Users/hp/end_game/end_game.srcs/sources_1/new/main.v:27]
+WARNING: [VRFC 10-1315] redeclaration of ansi port value2 is not allowed [C:/Users/hp/end_game/end_game.srcs/sources_1/new/main.v:28]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sources_1/new/reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sources_1/new/seven_seg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seven_seg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sources_1/new/sram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sram
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.srcs/sim_1/new/main_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main_simu
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/hp/end_game/end_game.srcs/sim_1/new/main_tb.v:46]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/end_game/end_game.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

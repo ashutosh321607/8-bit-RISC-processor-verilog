@@ -1,0 +1,15 @@
+0.6
+2017.1
+Apr 14 2017
+19:10:27
+C:/Users/hp/end_game/end_game.sim/sim_1/behav/glbl.v,1492045073,verilog,,,,glbl,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sim_1/new/main_tb.v,1574444723,verilog,,,,main_simu,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sources_1/new/alu.v,1574447080,verilog,,,,alu,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sources_1/new/clock_div.v,1574443035,verilog,,,,clkDiv,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sources_1/new/control.v,1574438486,verilog,,,,control,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sources_1/new/cpu.v,1574444669,verilog,,,,cpu,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sources_1/new/main.v,1574446989,verilog,,,,main,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sources_1/new/pc.v,1574438348,verilog,,,,pc,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sources_1/new/reg.v,1574445243,verilog,,,,regfile,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sources_1/new/seven_seg.v,1574438702,verilog,,,,seven_seg,,,,,,,,
+C:/Users/hp/end_game/end_game.srcs/sources_1/new/sram.v,1574447589,verilog,,,,sram,,,,,,,,
